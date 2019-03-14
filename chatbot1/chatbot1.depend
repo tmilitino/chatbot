@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551400397 source:c:\users\userbla\desktop\chatbot1\chatbot.cpp
+	<iostream>
+	<string>
+	<cstring>
+
